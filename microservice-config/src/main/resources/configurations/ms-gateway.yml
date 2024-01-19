@@ -1,0 +1,24 @@
+#eureka:
+#  client:
+#    register-with-eureka: false
+
+server:
+  port: 8080
+
+spring:
+  application:
+    name: ms-gateway
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes:
+        - id: customer
+          uri: http://localhost:8090
+          predicates:
+            - Path=/clientes/**
+        - id: account
+          uri: http://localhost:8091
+          predicates:
+            - Path=/cuentas/**

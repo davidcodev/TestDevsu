@@ -1,0 +1,17 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8«Õ›Ò1
+C
+java:S1452>"&Remove usage of generic wildcard type.(‚ª»Ê8¨«Õ›Ò1
+C
+java:S1452N"&Remove usage of generic wildcard type.(…ÂÔ8ª«Õ›Ò1
+C
+java:S1452c"&Remove usage of generic wildcard type.(“à€í8­«Õ›Ò1
+C
+java:S1452v"&Remove usage of generic wildcard type.(ˆŸ‚»8°«Õ›Ò1
+I
+java:S1452‚"&Remove usage of generic wildcard type.(²ããÛüÿÿÿÿ8²«Õ›Ò1
+O
+java:S1602",Remove useless curly braces around statement(óÁ××ùÿÿÿÿ8¶«Õ›Ò1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ÿßÜ›Ò1
