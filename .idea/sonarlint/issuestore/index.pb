@@ -95,3 +95,5 @@ Vmicroservice-account/src/main/java/com/micro/account/controllers/ReportControll
 \microservice-customer/src/test/java/com/micro/customer/controllers/ClientControllerTest.java,6\5\654c5991a591e50c1cf5d92e3cd9e6badac121df
 ê
 `microservice-customer/src/test/java/com/micro/customer/MicroserviceCustomerApplicationTests.java,1\0\10c24a6ea06bfa8de9d1f2e56a411f718688f99a
+ç
+]microservice-account/src/test/java/com/micro/account/MicroserviceAccountApplicationTests.java,e\2\e268758e5c00fcb4a4daabc34483316359ab9eab
